@@ -16,6 +16,7 @@
 - name: GRASP
   descr: "To explore and experiment with robotic foundation models for end-to-end learning of visuomotor policies in general-purpose single arm pick-and-place manipulation in simulated and real settings."
   demo: https://example.com/
+  image: assets\project_photos\demoPhoto.png
   tags:
     - tag: Aadarsh R
     - tag: 6382981152
@@ -26,6 +27,7 @@
 - name: HANDy
   descr: "To Develop a robotic arm with precise control and flexible articulation to perform complex tasks, integrating advanced kinematics and automation for real-world applications."
   demo: https://example.com/
+  image: assets\project_photos\demoPhoto.png
   tags:
     - tag: Anup Kharul
     - tag: 9405852532
@@ -35,6 +37,7 @@
 - name: MORPH
   descr: "To develop a gripper for multipurpose applications using shape and force control mechanisms to enhance it's grip and ability to handle all objects. "
   demo: https://example.com/
+  image: assets\project_photos\demoPhoto.png
   tags:
     - tag: Arnav Sarda
     - tag: 9289641120
@@ -44,6 +47,7 @@
 - name: PathBlazer
   descr: "To develop a robust, mapless autonomous navigation system for dynamic indoor environments, enabling fast adaptation, safe human-aware navigation, and reliable operation without the need for remapping."
   demo: https://example.com/
+  image: assets\project_photos\demoPhoto.png
   tags:
     - tag: Sanjaith G
     - tag: 8667812284
