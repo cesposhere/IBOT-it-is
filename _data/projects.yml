@@ -23,7 +23,6 @@
     - tag: ee23b001@smail.iitm.ac.in
 
 
-
 - name: HANDy
   descr: "To Develop a robotic arm with precise control and flexible articulation to perform complex tasks, integrating advanced kinematics and automation for real-world applications."
   demo: https://example.com/
@@ -32,7 +31,6 @@
     - tag: Anup Kharul
     - tag: 9405852532
     - tag: ed23b007@smail.iitm.ac.in
-    - tag: AngularJS
 
 - name: MORPH
   descr: "To develop a gripper for multipurpose applications using shape and force control mechanisms to enhance it's grip and ability to handle all objects. "
@@ -42,7 +40,6 @@
     - tag: Arnav Sarda
     - tag: 9289641120
     - tag: me23b019@smail.iitm.ac.in
-    - tag: AngularJS
 
 - name: PathBlazer
   descr: "To develop a robust, mapless autonomous navigation system for dynamic indoor environments, enabling fast adaptation, safe human-aware navigation, and reliable operation without the need for remapping."
@@ -52,7 +49,6 @@
     - tag: Sanjaith G
     - tag: 8667812284
     - tag: ed23b055@smail.iitm.ac.in
-    - tag: AngularJS
 
 - name: project Z
   descr: "You can also set a project without demo link and no tags"
