@@ -50,7 +50,7 @@
       {% unless site.projects.exclude.projects contains repository.name %}
         <div class="project neumorphism-card" data-aos="zoom-in-down">
           <!-- Default image for GitHub repo -->
-          <img src="{{ '/assets/img/github-default.png' | prepend: site.baseurl }}" alt="{{ repository.name }} image" class="project-image">
+          <img src="{{ project.image | prepend: site.baseurl }}" alt="{{ project.name }} image" class="project-image">
           <div class="name-link-wrapper">
             <h3>{{ repository.name }}</h3>
             <div class="links">
