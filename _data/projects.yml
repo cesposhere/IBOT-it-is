@@ -37,7 +37,7 @@
 - name: MORPH
   descr: "To develop a gripper for multipurpose applications using shape and force control mechanisms to enhance it's grip and ability to handle all objects. "
   demo: https://example.com/
-  image: assets\project_photos\demoPhoto.png
+  image: assets/project_photos/demoPhoto.png
   tags:
     - tag: Arnav Sarda
     - tag: 9289641120
@@ -47,7 +47,7 @@
 - name: PathBlazer
   descr: "To develop a robust, mapless autonomous navigation system for dynamic indoor environments, enabling fast adaptation, safe human-aware navigation, and reliable operation without the need for remapping."
   demo: https://example.com/
-  image: assets\project_photos\demoPhoto.png
+  image: assets/project_photos/demoPhoto.png
   tags:
     - tag: Sanjaith G
     - tag: 8667812284
