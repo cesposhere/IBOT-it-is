@@ -11,7 +11,7 @@ baseurl: "/IBOT-it-is"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: iBot
+username: iBot Club
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Welcome to iBot club
@@ -21,10 +21,9 @@ email: ae24b032@smail.iitm.ac.in
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: cesposhere
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
+linkedin_username: ibot-club
 twitter_username: ibot_cfi_iitm
+instagram_username: ibot_cfi_iitm
 
 # ABOUT ME SECTION
 # show_aboutme_card:
