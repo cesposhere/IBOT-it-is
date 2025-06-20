@@ -39,7 +39,7 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Our achievements
 
@@ -49,7 +49,8 @@ skills_title: Our achievements
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Events
+timeline_title: Our achievements
+
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
